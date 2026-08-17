@@ -1,0 +1,5 @@
+{
+    "bot_token": "BOT_TOKEN",
+	"welcome_channel_id": "WELCOME_CHANNEL_ID",
+    "user_role_id": "USER_ROLE_ID"
+}
