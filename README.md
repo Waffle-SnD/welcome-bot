@@ -10,7 +10,7 @@ A simple Discord bot that welcomes users when they join a server and automatical
 ## Installation
 Clone the repository
 ```
-git clone https://github.com/Waffle-SnD/waffle-bot.git
+git clone https://github.com/Waffle-SnD/welcome-bot.git
 cd welcome-bot
 ```
 

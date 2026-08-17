@@ -23,7 +23,7 @@ type Bot struct {
 }
 
 func load() (*Config, error) {
-	data, err := os.ReadFile("sv_config.json")
+	data, err := os.ReadFile("dc_config.json")
 	if err != nil {
 		return nil, fmt.Errorf("read config: %v", err)
 	}
